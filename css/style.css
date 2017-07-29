@@ -49,3 +49,41 @@ header#header h1#main-header-text {
     text-transform: uppercase;
     color: #fff;
 }
+
+/* Section */
+
+section#about {
+    margin: 30px 0;
+    padding: 0 50px;
+}
+
+section#about h2#about-header {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+section#about p.about-content {
+    text-align: center;
+}
+
+footer#contact h2#contact-header {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+footer#contact address#contact-content {
+    text-align: center;
+    color: #fff;
+    font-style: normal;
+}
+
+footer#contact address#contact-content a {
+    color: #fff;
+}
+
+footer#contact address#contact-content a:hoover {
+    color: #999;
+}
